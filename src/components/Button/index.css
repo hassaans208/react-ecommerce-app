@@ -1,0 +1,13 @@
+
+  button {
+    color: lightgrey;
+    transition: 0.5s;
+    background-color: transparent;
+    border: 0;
+  }
+  
+  button:hover {
+    color: grey;
+    transition: 0.5s;
+    cursor: pointer;
+  }
